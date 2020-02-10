@@ -1,0 +1,23 @@
+Compile/Run Instructions
+
+1) Ensure the folder hierarchy is maintained during extraction
+2) Open Terminal/Command Prompt
+3) Change directory to main Chomp folder
+4) Enter compile code:
+javac *.java
+5) To run, use the code:
+java Driver
+
+
+
+
+Game Instructions
+
+1) You go first:
+Select a block of chocolate to chomp
+All squares below and to the right will be removed
+2) computer selects its piece of chocolate to chomp right after you select your piece.
+3)Keep on playing until it asks for "Your turn!" in the console.
+4) Whoever is left with the soap piece loses the game and will be declared in the console.
+
+
